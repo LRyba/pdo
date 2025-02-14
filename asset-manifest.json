@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pdo/static/css/main.2418f616.css",
+    "main.js": "/pdo/static/js/main.8dffe218.js",
+    "static/js/453.580176aa.chunk.js": "/pdo/static/js/453.580176aa.chunk.js",
+    "static/media/immortal.ttf": "/pdo/static/media/immortal.2813a0b63d1045016f47.ttf",
+    "index.html": "/pdo/index.html",
+    "main.2418f616.css.map": "/pdo/static/css/main.2418f616.css.map",
+    "main.8dffe218.js.map": "/pdo/static/js/main.8dffe218.js.map",
+    "453.580176aa.chunk.js.map": "/pdo/static/js/453.580176aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2418f616.css",
+    "static/js/main.8dffe218.js"
+  ]
+}
