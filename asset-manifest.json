@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/pdo/static/css/main.13dd771b.css",
-    "main.js": "/pdo/static/js/main.45b731b5.js",
+    "main.js": "/pdo/static/js/main.5774768d.js",
     "static/js/453.580176aa.chunk.js": "/pdo/static/js/453.580176aa.chunk.js",
     "static/media/nyala.ttf": "/pdo/static/media/nyala.152bdbbae852adc84f7b.ttf",
     "static/media/vintages.otf": "/pdo/static/media/vintages.e6fcf9b21ac9a757f084.otf",
     "index.html": "/pdo/index.html",
     "main.13dd771b.css.map": "/pdo/static/css/main.13dd771b.css.map",
-    "main.45b731b5.js.map": "/pdo/static/js/main.45b731b5.js.map",
+    "main.5774768d.js.map": "/pdo/static/js/main.5774768d.js.map",
     "453.580176aa.chunk.js.map": "/pdo/static/js/453.580176aa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.13dd771b.css",
-    "static/js/main.45b731b5.js"
+    "static/js/main.5774768d.js"
   ]
 }
