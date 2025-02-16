@@ -1,13 +1,20 @@
 @font-face {
-  font-family: 'immortal';
-  src: local('immortal'), url('./fonts/immortal.ttf') format('truetype');
+  font-family: 'vintages';
+  src: local('vintages'), url('./fonts/vintages.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'nyala';
+  src: local('nyala'), url('./fonts/nyala.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
 body {
   margin: 0;
-  font-family: 'immortal', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+  font-family: 'nyala', 'vintages', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
